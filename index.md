@@ -1,125 +1,146 @@
-# Privacy Policy – CarBook
+# Privacy Policy - CarBook
 
-**Effective date:** 19. april 2026.
+**Effective date:** April 19, 2026.
 
-CarBook poštuje privatnost svojih korisnika. Ova Politika privatnosti objašnjava koje podatke aplikacija može prikupljati, kako se ti podaci koriste, kako se čuvaju i kako nas korisnici mogu kontaktirati.
+CarBook respects the privacy of its users. This Privacy Policy explains what
+data the app may collect, how that data is used, how it is stored, and how
+users can contact us.
 
-## 1. Ko smo mi
+## 1. Who we are
 
-CarBook je aplikacija za praćenje vozila, dokumenata, servisa, važnih datuma i podsjetnika.
+CarBook is an app for tracking vehicles, documents, service records, important
+dates, and reminders.
 
-Ako imate pitanja u vezi ove Politike privatnosti ili obrade podataka, možete nas kontaktirati na:
+If you have questions about this Privacy Policy or data processing, you can
+contact us at:
 
 **Email:** [carbooksupport@gmail.com](mailto:carbooksupport@gmail.com)
 
-## 2. Koje podatke možemo prikupljati
+## 2. What data we may collect
 
-CarBook može prikupljati i koristiti sljedeće vrste podataka koje korisnik unese ili dostavi kroz aplikaciju:
+CarBook may collect and use the following types of data that the user enters or
+provides through the app:
 
-### Podaci o nalogu
+### Account data
 
-- email adresa
-- podaci potrebni za prijavu i autentifikaciju
+- email address
+- data required for sign-in and authentication
 
-### Podaci koje korisnik unosi u aplikaciju
+### Data entered by the user in the app
 
-- podaci o vozilu
-- registracijska oznaka
-- marka i model vozila
-- broj šasije, godište, kilometraža i drugi podaci koje korisnik unese
-- datumi isteka registracije, tehničkog pregleda, vozačke dozvole, saobraćajne dozvole i drugih važnih dokumenata
-- servisni podaci i evidencija troškova
-- kazne i drugi podaci koje korisnik odluči spremiti
+- vehicle data
+- registration or license plate number
+- vehicle make and model
+- VIN, year, mileage, and other data entered by the user
+- expiry dates for registration, technical inspection, driver license, vehicle
+  registration document, and other important documents
+- service records and expense history
+- fines and any other data the user chooses to save
 
-### Slike i dokumenti
+### Images and documents
 
-- fotografije vozila
-- slike ili dokumenti koje korisnik učita radi evidencije ili AI/OCR obrade
-- slike vozačke dozvole, saobraćajne dozvole ili drugih dokumenata ako korisnik koristi te funkcije
+- vehicle photos
+- images or documents uploaded by the user for record keeping or AI/OCR
+  processing
+- driver license images, vehicle registration document images, or other
+  document images if the user uses those features
 
-### Podaci vezani za podsjetnike i notifikacije
+### Reminder and notification data
 
-- datumi i statusi važnih rokova
-- informacije potrebne za lokalne notifikacije i podsjetnike
+- dates and statuses of important deadlines
+- information required for local notifications and reminders
 
-### Tehnički podaci
+### Technical data
 
-CarBook može koristiti osnovne tehničke podatke potrebne za ispravan rad aplikacije, kao što su:
+CarBook may use basic technical data required for the proper operation of the
+app, such as:
 
-- tip uređaja
-- verzija operativnog sistema
-- osnovne informacije o greškama ili kvarovima aplikacije, ako su takve funkcije uključene
+- device type
+- operating system version
+- basic information about errors or app issues, if those features are enabled
 
-## 3. Kako koristimo podatke
+## 3. How we use data
 
-Podatke koristimo isključivo za funkcionalnost aplikacije, uključujući:
+We use data only for app functionality, including:
 
-- prijavu korisnika i upravljanje korisničkim nalogom
-- prikaz i upravljanje vozilima, dokumentima i servisnim podacima
-- kreiranje podsjetnika i lokalnih notifikacija
-- AI/OCR obradu dokumenata ako korisnik koristi te funkcije
-- poboljšanje stabilnosti, sigurnosti i korisničkog iskustva aplikacije
-- korisničku podršku i rješavanje problema
+- user sign-in and account management
+- displaying and managing vehicles, documents, and service records
+- creating reminders and local notifications
+- AI/OCR document processing if the user uses those features
+- improving app stability, security, and user experience
+- customer support and issue resolution
 
-## 4. AI/OCR obrada dokumenata
+## 4. AI/OCR document processing
 
-Ako korisnik koristi funkcije skeniranja ili prepoznavanja dokumenata, CarBook može obraditi učitane slike i dokumente kako bi pokušao automatski prepoznati određene podatke.
+If the user uses document scanning or recognition features, CarBook may process
+uploaded images and documents to try to automatically recognize certain data.
 
-Važno:
+Important:
 
-- AI/OCR prepoznavanje ne mora uvijek biti 100% tačno
-- korisnik uvijek treba pregledati i potvrditi podatke prije finalnog spremanja
-- automatski prepoznati podaci služe kao pomoć korisniku, a ne kao garancija tačnosti
+- AI/OCR recognition may not always be 100% accurate
+- the user should always review and confirm data before final saving
+- automatically recognized data is meant to help the user and is not a
+  guarantee of accuracy
 
-## 5. Dijeljenje podataka
+## 5. Data sharing
 
-CarBook ne prodaje lične podatke korisnika.
+CarBook does not sell personal data.
 
-Podaci se mogu dijeliti samo:
+Data may be shared only:
 
-- sa servisima i infrastrukturom potrebnom za rad aplikacije
-- kada je to potrebno za autentifikaciju, pohranu ili tehnički rad funkcionalnosti
-- kada to zakon zahtijeva
+- with services and infrastructure required for the app to function
+- when needed for authentication, storage, or technical operation of app
+  functionality
+- when required by law
 
-Ako koristimo vanjske servise za hosting, autentifikaciju, pohranu slika, analitiku ili obradu dokumenata, ti servisi mogu obrađivati podatke isključivo u mjeri potrebnoj za rad aplikacije.
+If we use third-party services for hosting, authentication, image storage,
+analytics, or document processing, those services may process data only to the
+extent necessary for the app to function.
 
-## 6. Čuvanje podataka
+## 6. Data retention
 
-Podatke čuvamo onoliko dugo koliko je potrebno za rad aplikacije, korisnički nalog i funkcionalnosti koje korisnik koristi, osim ako zakon zahtijeva drugačije.
+We keep data only as long as necessary for the operation of the app, the user
+account, and the features the user uses, unless the law requires otherwise.
 
-Ako korisnik zatraži brisanje naloga ili podataka, podaci će biti obrisani u razumnom roku, osim ako postoji zakonska obaveza njihovog čuvanja.
+If a user requests deletion of an account or data, the data will be deleted
+within a reasonable period unless there is a legal obligation to keep it.
 
-## 7. Sigurnost podataka
+## 7. Data security
 
-Poduzimamo razumne tehničke i organizacione mjere za zaštitu podataka od neovlaštenog pristupa, gubitka, zloupotrebe ili izmjene.
+We take reasonable technical and organizational measures to protect data from
+unauthorized access, loss, misuse, or alteration.
 
-Ipak, nijedan sistem nije potpuno siguran i ne možemo garantovati apsolutnu sigurnost.
+However, no system is completely secure, and we cannot guarantee absolute
+security.
 
-## 8. Korisnička prava
+## 8. User rights
 
-Korisnik može zatražiti:
+The user may request:
 
-- pristup svojim podacima
-- ispravku netačnih podataka
-- brisanje podataka ili naloga
-- dodatne informacije o tome kako se njegovi podaci koriste
+- access to their data
+- correction of inaccurate data
+- deletion of data or the account
+- additional information about how their data is used
 
-Za sve zahtjeve korisnik nas može kontaktirati na:
+For all requests, the user can contact us at:
 
 **[carbooksupport@gmail.com](mailto:carbooksupport@gmail.com)**
 
-## 9. Djeca
+## 9. Children
 
-CarBook nije namijenjen djeci i ne prikuplja svjesno podatke djece.
+CarBook is not intended for children and does not knowingly collect children's
+data.
 
-## 10. Promjene politike privatnosti
+## 10. Changes to this Privacy Policy
 
-Ovu Politiku privatnosti možemo povremeno ažurirati kako bismo odrazili promjene u aplikaciji, zakonskim obavezama ili načinu obrade podataka.
+We may update this Privacy Policy from time to time to reflect changes in the
+app, legal obligations, or the way data is processed.
 
-Ažurirana verzija će biti objavljena sa novim datumom stupanja na snagu.
+The updated version will be published with a new effective date.
 
-## 11. Kontakt
+## 11. Contact
 
-Ako imate pitanja, zahtjeve ili nedoumice u vezi ove Politike privatnosti ili privatnosti podataka u aplikaciji CarBook, kontaktirajte nas na:
+If you have questions, requests, or concerns regarding this Privacy Policy or
+data privacy in the CarBook app, contact us at:
 
 **[carbooksupport@gmail.com](mailto:carbooksupport@gmail.com)**
